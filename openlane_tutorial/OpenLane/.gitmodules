@@ -1,3 +1,0 @@
-[submodule "designs/ci"]
-	path = designs/ci
-	url = https://github.com/efabless/openlane-ci-designs
